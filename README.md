@@ -1,4 +1,4 @@
-🛠  Tech Stack
+👩‍💻  Tech Stack
 
 Frontend & Backend
 
