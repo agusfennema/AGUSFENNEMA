@@ -1,6 +1,6 @@
-👩‍💻  Tech Stack
+👩‍💻  **Tech Stack**
 
-📜 Frontend & Backend
+📜 **Frontend & Backend**
 
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="50" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" />
@@ -9,14 +9,14 @@
 
 ―――――――――――――――――――――――――――――――――――――――――――――――――――――――
   
-🔨 Tools
+🔨 **Tools**
 
 <img src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" width="80" height="80" /> <img src="https://user-images.githubusercontent.com/25181517/192108892-6e9b5cdf-4e35-4a70-ad9a-801a93a07c1c.png" width="80" height="80" /> <img src="https://user-images.githubusercontent.com/25181517/192109061-e138ca71-337c-4019-8d42-4792fdaa7128.png" width="80" height="80" />
 
 
 ―――――――――――――――――――――――――――――――――――――――――――――――――――――――
 
-🧰 Version Control
+🧰 **Version Control**
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" width="50" height="50" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" width="50" height="50" /> <img src="https://user-images.githubusercontent.com/25181517/192108376-c675d39b-90f6-4073-bde6-5a9291644657.png" width="50" height="50" /> 
 
@@ -24,27 +24,27 @@
 
 ―――――――――――――――――――――――――――――――――――――――――――――――――――――――
 
-💾 Database
+💾 **Database**
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="50" height="50" />
 
 ―――――――――――――――――――――――――――――――――――――――――――――――――――――――
 
-✨ Design
+✨ **Design**
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg" width="50" height="50" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg"  width="50" height="50" />
 
 
 ―――――――――――――――――――――――――――――――――――――――――――――――――――――――
 
-🚍 Communication
+🚍 **Communication**
 
 <img src="https://user-images.githubusercontent.com/25181517/192107854-765620d7-f909-4953-a6da-36e1ef69eea6.png" width="50" height="50"/> <img src="https://user-images.githubusercontent.com/25181517/192107858-fe19f043-c502-4009-8c47-476fc89718ad.png" width="50" height="50"/> 
 
 ―――――――――――――――――――――――――――――――――――――――――――――――――――――――
 
 
-🌐 Connect with me:
+🌐 **Connect with me:**
 
 
 <p align="left"> <a href="https://www.linkedin.com/in/agustina-fennema-/)" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-plain-wordmark.svg" alt="linkedin" width="80" height="80"/> <a </p>
